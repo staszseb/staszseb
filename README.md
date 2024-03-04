@@ -7,10 +7,9 @@ I am particularly passionate about Azure infrastructure, network, security, migr
 <p>
 <img src="microsoft365-enterprise-adminstrator-expert-600x600.png" alt="Enterprise Administrator Expert" width="98" height="98"/><img src="microsoft365-security-administrator-associate-600x600.png" alt="SecurityAdministratorAssociate" width="98" height="98"/><img src="azure-security-engineer-associate600x600.png" alt="AzureSecurityEngineerAssociate" width="98" height="98"/><img src="azure-virtual-desktop-specialty-600x600.png" alt="AzureVirtualDesktopSpecialty" width="98" height="98"/>
 
-
 A bit more about me:
 - 👋 Hi, I’m @staszseb
-- 👀 I’m interested in infrastructure-as-code deployment, infrastructure and network design, automation and security 
+- 👀 I’m interested in Azure infrastructure, security and network design, infrastructure-as-code 
 - 🌱 I’m currently experimenting with Azure CAF supermodules
 - 💞️ I’m looking to collaborate on automation, DevOps & GitHub deployment based on Terraform, PowerShell and JSON
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/sebastian-staszek-7a964a187/), [@Xing](https://www.xing.com/profile/Sebastian_Staszek/web_profiles?expandNeffi=true))
