@@ -3,11 +3,12 @@
 
 I work as a Lead Constultant & Cloud Architect at Devoteam M Cloud Munich. I enjoy learning, you can check my [Credly profile](https://www.credly.com/users/sebastian-staszek/badges).
 <p>
-I am particularly passionate about Cloud architecture and Azure Virtual Desktop:
+I am particularly passionate about Azure infrastructure, network, security, migration, automation, IaC and DevOps and Azure Virtual Desktop:
 <p>
 <img src="microsoft365-enterprise-adminstrator-expert-600x600.png" alt="Enterprise Administrator Expert" width="98" height="98"/><img src="microsoft365-security-administrator-associate-600x600.png" alt="SecurityAdministratorAssociate" width="98" height="98"/><img src="azure-security-engineer-associate600x600.png" alt="AzureSecurityEngineerAssociate" width="98" height="98"/><img src="azure-virtual-desktop-specialty-600x600.png" alt="AzureVirtualDesktopSpecialty" width="98" height="98"/>
 
-I am particularly passionate about Azure infrastructure, network, security, migration, automation, IaC and DevOps:
+
+A bit more about me:
 - 👋 Hi, I’m @staszseb
 - 👀 I’m interested in infrastructure-as-code deployment, infrastructure and network design, automation and security 
 - 🌱 I’m currently experimenting with Azure CAF supermodules
