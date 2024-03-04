@@ -1,4 +1,5 @@
-I work as a Lead Constultant & Cloud Architect at Devoteam M Cloud Munich. I enjoy learning, you can check my Credly profile [<img src="credly-logo-mini.png" alt="Credly Logo" width="49" height="49"/>](https://www.credly.com/users/sebastian-staszek).
+<p>
+I work as a Lead Constultant & Cloud Architect at Devoteam M Cloud Munich. I enjoy learning, you can check my Credly profile: [<img src="credly-logo-mini.png" alt="Credly Logo" width="128" height="63"/>](https://www.credly.com/users/sebastian-staszek).
 
 I am particularly passionate about Azure architecture, security, and Azure Virtual Desktop:
 <p>
