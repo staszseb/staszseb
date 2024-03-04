@@ -1,4 +1,6 @@
 <p>
+# Hello there, I'm Sebastian 👋
+<p>
 I work as a Lead Constultant & Cloud Architect at Devoteam M Cloud Munich. I enjoy learning, you can check my [Credly profile]:(https://www.credly.com/users/sebastian-staszek/badges)
 <p>
 I am particularly passionate about Azure architecture, security, and Azure Virtual Desktop:
