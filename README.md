@@ -1,4 +1,4 @@
-I work as a Lead Constultant & Cloud Architect at Devoteam M Cloud Munich. I enjoy learning, you can check my Credly profile, my Azure Heroes badgers, and my Microsoft Learn profile.
+I work as a Lead Constultant & Cloud Architect at Devoteam M Cloud Munich. I enjoy learning, you can check my Credly profile](https://www.credly.com/users/sebastian-staszek/badges).
 
 I am particularly passionate about Azure architecture, security, and DevOps:
 <p>
