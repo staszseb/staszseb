@@ -13,7 +13,7 @@ A bit more about me:
 - 🌱 I’m currently experimenting with Azure CAF supermodules
 - 💞️ I’m looking to collaborate on automation, DevOps & GitHub deployment based on Terraform, PowerShell and JSON
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/sebastian-staszek-7a964a187/), [@Xing](https://www.xing.com/profile/Sebastian_Staszek/web_profiles?expandNeffi=true))
-- ⚡ Fun fact: None
+- ⚡ Fun fact: Enthusiastic, open to new ideas and new topics, and willing to learn.
 
 <!---
 staszseb/staszseb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
