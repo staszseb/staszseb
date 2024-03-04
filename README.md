@@ -9,7 +9,7 @@ I am particularly passionate about Azure infrastructure, network, security, migr
 - 👋 Hi, I’m @staszseb
 - 👀 I’m interested in infrastructure-as-code deployment, infrastructure and network design, automation and security 
 - 🌱 I’m currently learning and experimenting with Azure CAF supermodules
-- 💞️ I’m looking to collaborate on automation and DevOps(GitHub deployment based on Terraform, PowerShell and JSON
+- 💞️ I’m looking to collaborate on automation, DevOps & GitHub deployment based on Terraform, PowerShell and JSON
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/sebastian-staszek-7a964a187/), [@Xing](https://www.xing.com/profile/Sebastian_Staszek/web_profiles?expandNeffi=true))
 - ⚡ Fun fact: None
 
